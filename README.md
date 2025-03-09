@@ -1,10 +1,10 @@
 # Paris_Housing_Price_Prediction
 
-*Overview*
+### Overview
 
 Aim of the project is to predict house prices in Paris using supervised learning techniques. The dataset contains 10,000 entries with 17 attributes, including property size, number of rooms, additional features, and location information. The goal is to develop accurate models for real estate price estimation to assist buyers in making informed decisions.
 
-*Dataset*
+### Dataset
 
 Source: Kaggle.
 
@@ -16,7 +16,7 @@ Attributes:
 
 3. Target Variable: Property price
 
-# Problem Statement
+### Problem Statement
 
 The objective of this project is to predict real estate prices based on various property characteristics. Reliable price estimation is essential for:
 
@@ -28,7 +28,7 @@ The objective of this project is to predict real estate prices based on various 
 
 - Urban Planning & Policy Making: Government agencies can use the data for infrastructure and housing policies.
 
-# Methodology
+### Methodology
 
 Data Preparation
 
@@ -48,7 +48,7 @@ The following supervised learning regression algorithms were tested:
 
 - XGBoost Regressor (Worst Model, Error: 2,506,004.72)
 
-# Tools & Technologies
+### Tools & Technologies
 
 Data Processing & Visualization: Jupyter Notebook, MLOS software, Heatmaps, Box Plots
 
@@ -56,7 +56,7 @@ Machine Learning Algorithms: Linear Regression, Random Forest, K-Neighbors, XGBo
 
 Evaluation Metrics: Mean Absolute Error (MAE), Root Mean Squared Error (RMSE)
 
-# Results & Insights
+### Results & Insights
 
 Linear Regression performed the best, showing the lowest error, making it the most accurate model for this dataset.
 
@@ -64,7 +64,7 @@ Random Forest Regressor was the second-best performing model, though with slight
 
 K-Neighbors Regressor and XGBoost Regressor had significantly higher errors, making them less suitable for this dataset.
 
-# Future Improvements
+### Future Improvements
 
 - Hyperparameter tuning to optimize model performance.
 
@@ -74,6 +74,6 @@ K-Neighbors Regressor and XGBoost Regressor had significantly higher errors, mak
 
 - Cross-validation and error analysis to improve model robustness.
 
-# Conclusion
+### Conclusion
 
 This project provides an effective way to predict house prices in Paris, helping buyers make data-driven decisions. The model can be further refined with improved feature selection and tuning for better accuracy.
