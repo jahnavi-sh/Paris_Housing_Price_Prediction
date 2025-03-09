@@ -1,10 +1,10 @@
 # Paris_Housing_Price_Prediction
 
-# Overview
+*Overview*
 
 Aim of the project is to predict house prices in Paris using supervised learning techniques. The dataset contains 10,000 entries with 17 attributes, including property size, number of rooms, additional features, and location information. The goal is to develop accurate models for real estate price estimation to assist buyers in making informed decisions.
 
-# Dataset
+*Dataset*
 
 Source: Kaggle.
 
